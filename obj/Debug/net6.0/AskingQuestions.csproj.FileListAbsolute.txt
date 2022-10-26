@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\refint\AskingQuestions.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\AskingQuestions\AskingQuestions\obj\Debug\net6.0\ref\AskingQuestions.dll
